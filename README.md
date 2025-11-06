@@ -54,6 +54,7 @@ ________________________________________
 4. Flow Diagram / Flow Mapping
 Task: Book a doctor appointment via the app.
 User Flow:
+```
 plaintext
 CopyEdit
 [Start]
@@ -74,6 +75,7 @@ CopyEdit
 [Confirm Appointment] <-----|
   |
 [End]
+```
 Symbols:
 •	[Start] / [End]: Terminators
 •	[ ]: Process steps
@@ -103,6 +105,7 @@ o	Profile
 o	Notifications
 o	Language
 Site Map:
+```
 plaintext
 CopyEdit
 Home
@@ -124,7 +127,7 @@ Home
     ├── Profile
     ├── Notifications
     └── Language
-
+```
 
 
 ## Result:
